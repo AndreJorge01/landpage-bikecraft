@@ -1,6 +1,6 @@
 # landpage-bikecraft
-##positioning exercise with CSS
+## positioning exercise with CSS
 
-#technologies used
-+HTML
-+CSS
+# technologies used
++ HTML
++ CSS
